@@ -1,0 +1,173 @@
+/*main*/
+
+.umtvsam{
+    margin-top: 250px;
+    margin-left: 525px;
+    width: 989px;
+    height: 306px;
+}
+
+.email{
+    font-family: Arial, Helvetica, sans-serif;
+    width: 375px;
+    height: 56px;
+    border-radius: 5px;
+}
+
+.getStarted{
+    width: 154px;
+    height: 60px;
+    padding-top: 12px;
+    padding-bottom: 22px;
+    padding-left: 24px;
+    padding-right: 24px;
+    background-color: red;
+    margin-left: 8px;
+    border-radius: 5px;
+    color: white;
+    font-weight: 400;
+    font-size: larger;
+}
+
+.input{
+    display: flex;
+}
+
+h1{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+p{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.ns{
+    display: flex;
+    justify-content: space-between;
+}
+
+.mainmovies{
+    background-image: url(Netflix-Background.jpg);
+    padding-bottom: 200px;
+}
+
+.N{
+    color: red;
+}
+
+.s{
+    color: white;
+    background-color: red;
+}
+
+.um{
+    color: white;
+}
+
+.p{
+    color: white;
+}
+
+/*main question*/
+
+.mq h1{
+    text-align: center;
+    font-size: 50px;
+    color: white;
+}
+
+.mq div{
+    background-color: #2d2d2d;
+    display: flex;
+    justify-content: space-between;
+    text-align: center;
+    padding: 10px;
+    margin: 10px auto;
+    width: 80%;
+}
+
+.mq{
+    background-color: black;
+    padding: 50px;
+}
+
+.mq h2{
+    color: white;
+    font-size: 30px;
+    font-weight: lighter;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mq h3{
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.mq p{
+    color: white;
+    text-align: center;
+    font-size: 20px;
+}
+
+.mq form{
+    display: flex;
+    justify-content: center;
+}
+/*Enyoy on your TV */
+.me{
+    background-color:black ;
+}
+
+.me h1{
+    color: white;
+}
+
+.me h3{
+    color: white;
+}
+
+.med{
+    width: 570px;
+    padding-left: 200px;
+    padding-top: 200px;
+    padding-bottom: 200px;
+}
+/*Watch everywhere*/
+.mw{
+    background-color:black ;
+}
+
+.mw h1{
+    color: white;
+}
+
+.mw h3{
+    color: white;
+}
+
+.mw div{
+    width: 550px;
+    padding: 200px;
+    margin-left: 400px;
+}
+/* Create profile for kids*/
+.mk{
+    background-color:black ;
+}
+
+.mk h1{
+    color: white;
+}
+
+.mk h3{
+    color: white;
+}
+
+.mk div{
+    width: 480px;
+    padding: 200px;
+}
